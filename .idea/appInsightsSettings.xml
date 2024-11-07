@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.rosyid.latihantensorflowliteprediction" />
+                  <option name="mobileSdkAppId" value="1:1002397792390:android:100bed3506f8bb7c277907" />
+                  <option name="projectId" value="fir-ml-prediction-1ff88" />
+                  <option name="projectNumber" value="1002397792390" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
